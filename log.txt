@@ -1,0 +1,11 @@
+2021-09-06 20:54:02 INFO-Operations constructor called
+2021-09-06 20:54:02 INFO-ReadWrite constructor called
+2021-09-06 20:54:02 INFO-Receiving data from input text file
+2021-09-06 20:54:02 INFO-Received list of words
+2021-09-06 20:54:02 INFO-Started doing operations
+2021-09-06 20:54:02 INFO-Finished doing operations
+2021-09-06 20:54:02 INFO-Started printing to console
+2021-09-06 20:54:02 INFO-Finished printing to console file
+2021-09-06 20:54:02 INFO-Started writing content to output file
+2021-09-06 20:54:02 INFO-Finished writing content to output file
+2021-09-06 20:54:02 INFO-Program successfully finished
