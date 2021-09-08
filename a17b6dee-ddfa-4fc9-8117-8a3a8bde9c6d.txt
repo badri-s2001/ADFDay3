@@ -1,0 +1,11 @@
+Split the words based on the vowels
+[['t', 'n', 'ght'], ['t', 'm', 'rr', 'w'], ['r', '', 'n', 'ng'], ['r', 'd', 'r'], ['h', 'y'], ['t', 'd', 'y'], ['cry', 'ng'], ['m', 'k', 'ng'], ['m', 'm'], ['r', 't', 't', 'r'], ['h', 'y'], ['h', 'y'], ['h', 'y'], ['h', 'y']]
+
+Capitalize 3rd letter of every word
+['toNight', 'toMorrow', 'raIning', 'raDar', 'heY', 'toDay', 'crYing', 'maKing', 'moM', 'roTator', 'heY', 'heY', 'heY', 'heY']
+
+Capitalize 5th word of the file
+['tonight', 'tomorrow', 'raining', 'radar', 'HEY', 'today', 'crying', 'making', 'mom', 'rotator', 'hey', 'hey', 'hey', 'hey']
+
+Content after replacing space with '-' and new line with ';'
+tonight-tomorrow-raining-radar-hey;;today-crying-making-mom;;rotator;;hey-hey-hey-hey

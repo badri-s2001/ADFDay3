@@ -9,3 +9,94 @@
 2021-09-06 20:54:02 INFO-Started writing content to output file
 2021-09-06 20:54:02 INFO-Finished writing content to output file
 2021-09-06 20:54:02 INFO-Program successfully finished
+2021-09-07 17:52:21 INFO-Operations constructor called
+2021-09-07 17:52:21 INFO-ReadWrite constructor called
+2021-09-07 17:52:21 INFO-Receiving data from input text file
+2021-09-07 17:52:21 INFO-Received list of words
+2021-09-07 17:52:21 INFO-Started doing operations
+2021-09-07 17:52:21 INFO-Finished doing operations
+2021-09-07 17:52:21 INFO-Started printing to console
+2021-09-07 17:52:21 INFO-Finished printing to console file
+2021-09-07 17:52:21 INFO-Started writing content to output file
+2021-09-07 17:52:21 INFO-Finished writing content to output file
+2021-09-07 17:52:21 INFO-Program successfully finished
+2021-09-07 17:52:24 INFO-Operations constructor called
+2021-09-07 17:52:24 INFO-ReadWrite constructor called
+2021-09-07 17:52:24 INFO-Receiving data from input text file
+2021-09-07 17:52:24 INFO-Received list of words
+2021-09-07 17:52:24 INFO-Started doing operations
+2021-09-07 17:52:24 INFO-Finished doing operations
+2021-09-07 17:52:24 INFO-Started printing to console
+2021-09-07 17:52:24 INFO-Finished printing to console file
+2021-09-07 17:52:24 INFO-Started writing content to output file
+2021-09-07 17:52:24 INFO-Finished writing content to output file
+2021-09-07 17:52:24 INFO-Program successfully finished
+2021-09-07 18:34:12 INFO-Receiving data from input text file
+2021-09-07 18:34:12 INFO-Started doing operations
+2021-09-07 18:34:12 INFO-Finished doing operations
+2021-09-07 18:34:12 INFO-Started printing to console
+2021-09-07 18:34:12 INFO-Finished printing to console file
+2021-09-07 18:34:12 INFO-Started writing content to output file
+2021-09-07 18:34:12 INFO-Finished writing content to output file
+2021-09-07 18:34:12 INFO-Program successfully finished
+2021-09-07 18:35:19 INFO-Receiving data from input text file
+2021-09-07 18:35:19 INFO-Started doing operations
+2021-09-07 18:35:19 INFO-Finished doing operations
+2021-09-07 18:35:19 INFO-Started printing to console
+2021-09-07 18:35:19 INFO-Finished printing to console file
+2021-09-07 18:35:19 INFO-Started writing content to output file
+2021-09-07 18:35:19 INFO-Finished writing content to output file
+2021-09-07 18:35:19 INFO-Program successfully finished
+2021-09-07 18:38:48 INFO-Receiving data from input text file
+2021-09-07 18:38:48 INFO-Started doing operations
+2021-09-07 18:38:48 INFO-Finished doing operations
+2021-09-07 18:38:48 INFO-Started printing to console
+2021-09-07 18:38:48 INFO-Finished printing to console file
+2021-09-07 18:38:48 INFO-Started writing content to output file
+2021-09-07 18:38:48 INFO-Finished writing content to output file
+2021-09-07 18:38:48 INFO-Program successfully finished
+2021-09-07 18:41:51 INFO-Receiving data from input text file
+2021-09-07 18:41:51 INFO-Started doing operations
+2021-09-07 18:41:51 INFO-Finished doing operations
+2021-09-07 18:41:51 INFO-Started printing to console
+2021-09-07 18:41:51 INFO-Finished printing to console file
+2021-09-07 18:41:51 INFO-Started writing content to output file
+2021-09-07 18:41:51 INFO-Finished writing content to output file
+2021-09-07 18:41:51 INFO-Program successfully finished
+2021-09-07 19:25:47 INFO-Receiving data from input text file
+2021-09-07 19:25:47 INFO-Started doing operations
+2021-09-07 19:25:47 INFO-Finished doing operations
+2021-09-07 19:25:47 INFO-Started printing to console
+2021-09-07 19:25:47 INFO-Finished printing to console file
+2021-09-07 19:25:47 INFO-Started writing content to output file
+2021-09-07 19:25:47 INFO-Finished writing content to output file
+2021-09-07 19:25:47 INFO-Program successfully finished
+2021-09-07 19:28:41 INFO-Receiving data from input text file
+2021-09-07 19:28:41 INFO-Started doing operations
+2021-09-07 19:28:41 INFO-Finished doing operations
+2021-09-07 19:28:41 INFO-Started printing to console
+2021-09-07 19:28:41 INFO-Finished printing to console file
+2021-09-07 19:28:41 INFO-Started writing content to output file
+2021-09-07 19:28:41 INFO-Finished writing content to output file
+2021-09-07 19:28:41 INFO-Program successfully finished
+2021-09-08 19:01:45 INFO-Receiving data from input text file
+2021-09-08 19:01:45 INFO-Started doing operations
+2021-09-08 19:01:45 INFO-Finished doing operations
+2021-09-08 19:01:45 INFO-Started printing to console
+2021-09-08 19:01:45 INFO-Finished printing to console file
+2021-09-08 19:01:45 INFO-Started writing content to output file
+2021-09-08 19:01:45 INFO-Finished writing content to output file
+2021-09-08 19:01:45 INFO-Program successfully finished
+2021-09-08 19:35:51 INFO-Receiving data from input text file
+2021-09-08 19:35:51 INFO-Started doing operations
+2021-09-08 19:35:51 INFO-Finished doing operations
+2021-09-08 19:35:51 INFO-Started printing to console
+2021-09-08 19:35:51 INFO-Finished printing to console file
+2021-09-08 20:11:09 INFO-Receiving data from input text file
+2021-09-08 20:11:09 INFO-Started doing operations
+2021-09-08 20:11:09 INFO-Finished doing operations
+2021-09-08 20:11:09 INFO-Started printing to console
+2021-09-08 20:11:09 INFO-Finished printing to console file
+2021-09-08 20:11:09 INFO-Started writing content to output file
+2021-09-08 20:11:09 INFO-Finished writing content to output file
+2021-09-08 20:11:09 INFO-Program successfully finished
